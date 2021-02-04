@@ -1,4 +1,4 @@
-# LSTM_CSTR
+# LSTM_Nonlinear
 
 ![Screenshot](LSTM_network.png)
 
